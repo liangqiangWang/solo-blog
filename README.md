@@ -10,7 +10,6 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://www.wangliangqiang.cn/my-github-repos)
 * [第一篇记录](http://www.wangliangqiang.cn/first)
 * [世界，你好！](http://www.wangliangqiang.cn/hello-solo)
 
